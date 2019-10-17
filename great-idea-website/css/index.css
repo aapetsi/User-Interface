@@ -64,3 +64,93 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+.container {
+	width: 80%;
+	padding: 20px;
+	margin: 20px auto;
+	max-width: 1000px;
+	padding-bottom: 100px;
+}
+
+.header {
+	display: inline-block;
+	width: 110px;
+	height: 10px;
+	padding: 30px;
+}
+
+.innovation {
+	display: inline-block;
+	width: 475px;
+	height: 400px;
+	vertical-align: bottom;
+	margin: auto;
+}
+
+.inno-xs {
+	margin: auto;
+	padding: 150px;
+}
+
+/* section div h1 {
+	color: red;
+	margin: auto;
+	/* height: 500px; 
+} */
+
+.info-extra {
+	/* border: 2px solid black; */
+	display: inline-block;
+	width: 475px;
+	padding: 25px;
+	margin: auto;
+	text-align: justify;
+}
+
+.middle-img {
+	margin: auto;
+	width: 940px;
+	display: block;
+}
+
+.more-info {
+	/* border: 2px solid black; */
+	width: 315px;
+	padding: 25px;
+	margin: auto;
+	display: inline-block;
+	text-align: justify;
+} 
+
+section.contact h3 {
+	/* border: 1px solid red; */
+	padding-top: 25px;
+}
+
+/* span {
+	padding-top: 30px;
+} */
+
+/* a {
+	text-decoration: none;
+} */
+
+hr {
+	border: 0;
+	height: 0;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+} 
+
+.footer {
+	text-align: center;
+}
+
+button {
+	background: white;
+	width: 100px;
+}
+
+div.innovation h1 {
+	font-size: 50px;
+}
